@@ -8,8 +8,7 @@ ConectaNegocio es una plataforma web para centralizar el abastecimiento entre pe
 
 - [Prototipo en GitHub Pages](https://josealejandromelom.github.io/M1---Desarrollo-Web---C1/)
 - [Repositorio](https://github.com/JoseAlejandroMeloM/M1---Desarrollo-Web---C1)
-- [Diseño de interfaz en Figma](https://www.figma.com/design/i0LHQGczrAGr6AqProBqJV/Proyecto-DSAW?node-id=0-1&t=ZS6t7uOzXtOQ8xty-1)
-- [Wireframes y estados en Figma](https://www.figma.com/make/3drdhe0Y3KiYPeWRJ75b4X/Wireframe-Ofertas-Estado-Vac%C3%ADo?t=YKTxr7a9hPD7wUPm-1)
+- [Prototipos y wireframes en Figma](https://www.figma.com/design/i0LHQGczrAGr6AqProBqJV/Proyecto-DSAW?node-id=0-1)
 - [Matriz de pantallas y recorrido](./WIREFRAMES.md)
 
 ## Problema real
@@ -94,12 +93,14 @@ La regla de alcance es: si una función no mejora directamente la comparación, 
 
 ## Equipo
 
-- Catalina Vega Romero
-- Jose Alejandro Melo Murcia
-- Alejandro Caycedo
-- Sebastián Franco Umbacia
+| Integrante | Contribuciones |
+|---|---|
+| **Catalina Vega Romero** | Investigación y validación del problema con el caso real de la papelería Sol y Luna; definición de necesidades del comerciante; revisión de los flujos, contenidos y coherencia de los wireframes. |
+| **Jose Alejandro Melo Murcia** | Integración general del proyecto; desarrollo y conexión del prototipo completo en HTML, CSS y JavaScript; comportamiento con `localStorage`; consolidación de los wireframes en Figma; pruebas finales y preparación de la entrega. |
+| **Alejandro Caycedo** | Creación de la base inicial del repositorio; apoyo en la definición de la estructura del proyecto, los roles y el recorrido principal entre comerciante y proveedor. |
+| **Sebastián Franco Umbacia** | Desarrollo y ajuste de las páginas iniciales y de ofertas; consolidación del planteamiento del problema; organización de enlaces y documentación; actualización del README y preparación del repositorio para GitHub Pages. |
 
-Las contribuciones individuales se documentan mediante el historial real de Git y los archivos entregados por el equipo.
+El historial de Git complementa esta distribución y registra los aportes técnicos realizados directamente en el repositorio.
 
 ## Tecnologías
 
