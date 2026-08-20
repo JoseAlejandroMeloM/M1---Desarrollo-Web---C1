@@ -1,4 +1,5 @@
 import { validateMessage, validateOffer, validateOrder } from "./validation.js";
+import { initializeRegistration } from "./registration.js";
 
 const KEYS = {
   offers: "cn-demo-offers",
@@ -486,6 +487,7 @@ function initProvider() {
 }
 
 initGlobalUI();
+initializeRegistration();
 
 const page = document.body.dataset.page;
 if (page === "comerciante") initMerchantDashboard();

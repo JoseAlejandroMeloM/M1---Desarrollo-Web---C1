@@ -9,14 +9,14 @@
 
 | Flujo | Pantalla | Prototipo | Estados que debe mostrar Figma |
 |---|---|---|---|
-| Público | Presentación | `index.html` | Contenido completo y navegación responsive |
-| Comerciante | Panel | `comerciante.html` | Resumen con datos, actividad vacía y aviso |
-| Comerciante | Ofertas | `ofertas.html` | Lista, filtros sin resultados y validación |
-| Comerciante | Comparador | `comparador.html` | Selección vacía, comparación y límite/error |
-| Compartido | Chat contextual | `chat.html` | Sin conversación, mensajes y validación |
-| Comerciante | Crear pedido | `pedido.html` | Formulario inicial, resumen y errores |
-| Comerciante | Seguimiento | `seguimiento.html` | Sin pedido, línea de tiempo y recepción parcial |
-| Proveedor | Panel y pedidos | `proveedor.html` | Sin pedidos, pedidos activos y actualización |
+| Público | Presentación | [`../index.html`](../index.html) | Contenido completo y navegación responsive |
+| Comerciante | Panel | [`../pages/comerciante.html`](../pages/comerciante.html) | Resumen con datos, actividad vacía y aviso |
+| Comerciante | Ofertas | [`../pages/ofertas.html`](../pages/ofertas.html) | Lista, filtros sin resultados y validación |
+| Comerciante | Comparador | [`../pages/comparador.html`](../pages/comparador.html) | Selección vacía, comparación y límite/error |
+| Compartido | Chat contextual | [`../pages/chat.html`](../pages/chat.html) | Sin conversación, mensajes y validación |
+| Comerciante | Crear pedido | [`../pages/pedido.html`](../pages/pedido.html) | Formulario inicial, resumen y errores |
+| Comerciante | Seguimiento | [`../pages/seguimiento.html`](../pages/seguimiento.html) | Sin pedido, línea de tiempo y recepción parcial |
+| Proveedor | Panel y pedidos | [`../pages/proveedor.html`](../pages/proveedor.html) | Sin pedidos, pedidos activos y actualización |
 
 ## Pantalla anotada recomendada
 
