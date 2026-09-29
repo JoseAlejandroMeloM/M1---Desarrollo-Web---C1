@@ -1,8 +1,0 @@
-.provider-workspace {
-  align-items: start;
-}
-
-.provider-offer-form {
-  display: grid;
-  gap: var(--space-medium);
-}
